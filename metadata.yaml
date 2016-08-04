@@ -1,0 +1,40 @@
+_repo: 20000-Lieues-Sous-Les-Mers---Part-2_5096
+_version: 0.0.1
+alternative_title: 20000 Lieues sous les mers — Part 2
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Science fiction
+- Science Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5096'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Underwater exploration -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+- !lcsh 'Submarines (Ships) -- Fiction'
+- !lcsh 'Sea stories'
+- GITenberg
+title: Vingt Mille Lieues Sous Les Mers — Part 2
+url: http://www.gutenberg.org/ebooks/5096
